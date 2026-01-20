@@ -5,6 +5,16 @@ Este projeto tem como objetivo analisar a performance de um produto a partir de 
 
 O dashboard foi desenvolvido no Looker Studio, com layout previamente prototipado no Figma, garantindo clareza visual, boa usabilidade e leitura executiva dos dados.
 
+🛠️ ***Ferramentas Utilizadas***
+
+Looker Studio – Visualização e análise de dados
+
+Google Sheets / Excel – Organização e tratamento da base
+
+Figma – Prototipação do layout do dashboard
+
+SQL (opcional) – Apoio à análise e exploração dos dados
+
 🧱 ***Estrutura dos Dados:***
 
 A base de dados utilizada é fictícia, com aproximadamente 5.000 registros, contendo informações de vendas, clientes, produtos e satisfação.
